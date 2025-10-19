@@ -8,8 +8,8 @@ Los Angeles, California, United States
 
 ## Contact
 
-- **Address:** 1108 S Robertson Blvd, Beverly Hills, California 90035  
-- **Phone:** +1 424-744-7374  
+- **Address:** Los Angeles, California 90035  
+- **Phone:** +1 949-424-7445  
 - **Email:** arman_dabiri@hotmail.com  
 - **LinkedIn:** [linkedin.com/in/arman-dabiri-266178189](https://www.linkedin.com/in/arman-dabiri-266178189)  
 - **GitHub:** [github.com/armandabiri99](https://github.com/armandabiri99)
