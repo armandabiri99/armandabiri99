@@ -1,6 +1,6 @@
 # Arman Dabiri
 
-**IT Director & Cloud Engineer @ Network Experts, Inc**  
+**Platform / Infrastructure Engineer @ Network Experts, Inc**  
 MS in Cloud Computing | Certified AWS Solutions Architect | Kubernetes Learner  
 Los Angeles, California, United States
 
@@ -9,7 +9,7 @@ Los Angeles, California, United States
 ## Contact
 
 - **Address:** Los Angeles, California 90035  
-- **Phone:** +1 949-424-7445  
+- **Phone:** +1 ***-***-****  
 - **Email:** arman_dabiri@hotmail.com  
 - **LinkedIn:** [linkedin.com/in/arman-dabiri-266178189](https://www.linkedin.com/in/arman-dabiri-266178189)  
 - **GitHub:** [github.com/armandabiri99](https://github.com/armandabiri99)
@@ -18,7 +18,11 @@ Los Angeles, California, United States
 
 ## Summary
 
-Sr. Systems Engineer with 5+ years of hands-on experience designing, securing, and managing IT infrastructures, primarily in multi-location dental and healthcare environments. Specialist in cloud architecture (AWS, Azure), VMware virtualization, and Windows Server ecosystems, with strong automation skills using Terraform, Ansible, and AWS CloudFormation. Proven leader in large-scale OpenDental and Dentrix deployments, disaster recovery planning, and reducing system downtime by 25%+. Adept at aligning IT solutions with business goals, ensuring HIPAA compliance, and supporting enterprise scalability.
+AWS Cloud and Hybrid Infrastructure Engineer with experience designing, deploying, and supporting modern infrastructure across both cloud and enterprise environments. Skilled in building scalable AWS workloads, automating infrastructure with Terraform and CloudFormation, and managing secure production environments across Linux and Windows platforms.
+
+In my current role within a managed services environment, I operate and modernize infrastructure for multi-site healthcare organizations, supporting hybrid architectures that integrate AWS, VMware, and on-premises systems. My work includes cloud deployments, identity integration (Active Directory and Entra ID), infrastructure automation, and disaster recovery design.
+
+I enjoy helping organizations transition from traditional infrastructure to cloud platforms while maintaining reliability, security, and operational efficiency.
 
 ---
 
