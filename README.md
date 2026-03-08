@@ -66,34 +66,29 @@ I enjoy helping organizations transition from traditional infrastructure to clou
 **IT Director & Cloud Engineer**  
 *May 2024 – Present*
 
-- Architected and implemented scalable AWS infrastructures aligned with industry best practices and automation-first principles.
-- Deployed Infrastructure as Code using Terraform and AWS CloudFormation, reducing deployment time and increasing reliability.
-- Managed cloud and on-premises migrations, focusing on high availability, lifecycle management, and secure virtual environments.
-- Developed comprehensive cloud security frameworks with strict IAM, network segmentation, and Zero Trust principles.
-- Collaborated with DevOps to establish CI/CD pipelines, increasing deployment efficiency and system resilience.
-- Delivered tailored cloud solutions to 300+ dental offices, ensuring HIPAA compliance and minimal operational disruption.
-- Integrated dental PMS platforms, optimizing clinical and administrative workflows for improved patient management.
-- Standardized Windows Server and Active Directory deployments for secure, scalable infrastructure.
+• Owned and operated hybrid infrastructure (Windows Server, Linux, VMware, AWS, Azure) across multiple healthcare and dental sites, improving system reliability and security
+• Implemented identity and access controls with Active Directory, Entra ID (Azure AD), Okta, and Duo, adding MFA, SSO, and lifecycle processes, which reduced unauthorized access incidents
+• Designed standardized infrastructure patterns and automated cloud foundations and operational tasks with Terraform, CloudFormation, PowerShell, and Bash, speeding up deployment cycles
+• Led on‑prem and cloud migrations of directory services, file services, and line‑of‑business apps, achieving minimal downtime
+• Designed and maintained backup and disaster recovery solutions, regularly validating restores to ensure business continuity requirements were met
 
-**System Engineer**  
+**Systems Engineer**  
 *September 2023 – May 2024*
 
-- Provided proactive IT support for dental practices, troubleshooting network, server, and application issues.
-- Managed Office 365 and Active Directory to refine authentication and bolster security.
-- Administered Windows Server with robust security and proactive troubleshooting.
-- Enhanced endpoint protection and threat detection with advanced security tools.
-- Configured and maintained practice management systems for seamless multi-platform performance.
+• Provided systems engineering support for Windows, macOS, and Linux platforms in regulated healthcare settings, applying security‑hardening procedures that ensured compliance and reduced support tickets
+• Administered Active Directory and Microsoft 365 environments with PowerShell and Group Policy, strengthening authentication and access control and lowering unauthorized‑access incidents
+• Operated endpoint monitoring and security platforms (Atera, Huntress), responding to incidents and maintaining SLA targets
+• Supported backup and recovery operations with Synology, Axcient, and Microsoft 365 retention tools, conducting regular restore tests that confirmed data could be recovered within required recovery time objectives
+• Assisted in standardizing system configurations and documentation to reduce recurring operational issues
 
 ### Medis Holding — Shiraz, Fars Province, Iran
 **System Administrator**  
 *June 2020 – July 2023*
 
-- Administered 60+ physical servers; led lifecycle management, redundancy, and performance tuning for high availability.
-- Managed VMware vCenter and vSAN clusters, optimizing virtualization, storage, and data resilience.
-- Configured Cisco and Mikrotik devices, reinforcing network security and remote access.
-- Implemented disaster recovery and backup strategies, reducing recovery time by 40%.
-- Monitored Apache and Windows servers with proactive patching and real-time monitoring.
-- Reduced system downtime by 25% with proactive capacity planning and scheduled maintenance.
+• Administered 60+ physical and virtual servers across Windows, Linux, and macOS environments, ensuring high availability and performance
+• Designed and operated VMware vCenter and vSAN clusters, managing capacity and system reliability
+• Managed core infrastructure services like Active Directory, DNS, DHCP, file shares, and backup solutions using Group Policy and Veeam, ensuring consistent service availability and successful daily backups
+• Implemented monitoring, networking, and disaster recovery improvements that reduced downtime and improved recoverability
 
 ---
 
@@ -102,9 +97,14 @@ I enjoy helping organizations transition from traditional infrastructure to clou
 **Westcliff University**  
 *Master of Science (MS), Information Technology - Cloud Computing*  
 August 2023 – August 2025
+Grade: GPA: 3.92/4
+
 
 **Shiraz University of Technology**  
 *Bachelor's degree, Electrical, Electronics and Communications Engineering*  
 September 2017 – December 2021
+Grade: 14.47/20 (GPA: 3.14/4)
+B.Sc.Thesis: "Design and Development of an Automated Access Control System"
+Supervisor: Prof. Mohammad Reza Salehi
 
 ---
