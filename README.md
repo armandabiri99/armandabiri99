@@ -44,6 +44,7 @@ I enjoy helping organizations transition from traditional infrastructure to clou
 
 ## Certifications
 
+- HashiCorp Certified: Terraform Associate (004)
 - AWS Certified Solutions Architect – Associate
 - AWS Cloud Practitioner
 - The Evolution of Access to Applications with Fortinet ZTNA
